@@ -1,0 +1,32 @@
+{
+  "name": "bass-nedb",
+  "version": "0.0.1",
+  "description": "NeDB Adapter for Bass.js",
+  "directories": {
+    "test": "test"
+  },
+  "main": "",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/congajs/bass-nedb.git"
+  },
+  "keywords": [
+    "orm",
+    "odm",
+    "nedb"
+  ],
+  "author": "Marc Roulias",
+  "license": "MIT",
+  "dependencies": {
+    "async": "0.2.8",
+    "nedb": "0.8.0",
+    "sort-component": "0.1.0"
+  },
+  "devDependencies": {
+
+  },
+  "readmeFilename": "README.md"
+}
