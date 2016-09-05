@@ -21,9 +21,8 @@
   "author": "Marc Roulias",
   "license": "MIT",
   "dependencies": {
-    "async": "0.2.8",
-    "nedb": "0.8.0",
-    "sort-component": "0.1.0"
+    "async": "2.0.1",
+    "nedb": "1.8.0"
   },
   "devDependencies": {
 
