@@ -31,10 +31,13 @@
     "lodash": "*",
     "nedb": "1.8.0"
   },
+  "peerDependencies": {
+    "bass": "^1.0.0"
+  },
   "devDependencies": {
     "jasmine": "^2.6.0",
-    "bass": "latest",
-    "log4js": "1.1.1"
+    "log4js": "1.1.1",
+    "bass": "^1.0.0"
   },
   "readmeFilename": "README.md"
 }
