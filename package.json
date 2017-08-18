@@ -1,6 +1,6 @@
 {
   "name": "bass-nedb",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "NeDB Adapter for Bass.js",
   "directories": {
     "test": "test"
@@ -27,9 +27,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "async": "2.0.1",
-    "lodash": "*",
-    "nedb": "1.8.0"
+    "async": "^2.5.0",
+    "lodash": "^4.17.0",
+    "nedb": "^1.8.0"
   },
   "peerDependencies": {
     "bass": "^1.0.0"
