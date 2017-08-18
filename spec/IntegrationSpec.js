@@ -1,5 +1,5 @@
 const path = require('path');
 
-const AdapterIntegrationSpec = require('../node_modules/bass/spec/AdapterIntegrationSpec');
+const AdapterIntegration = require('../node_modules/bass/spec/AdapterIntegration');
 
-describe('bass-nedb', AdapterIntegrationSpec('bass-nedb'));
+describe('bass-nedb', AdapterIntegration('bass-nedb'));
