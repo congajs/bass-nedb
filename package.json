@@ -1,6 +1,6 @@
 {
   "name": "bass-nedb",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NeDB Adapter for Bass.js",
   "directories": {
     "test": "test"
@@ -35,9 +35,10 @@
     "bass": "^1.0.0"
   },
   "devDependencies": {
+    "bass": "^1.0.0",
+    "fs-extra": "^4.0.1",
     "jasmine": "^2.6.0",
-    "log4js": "1.1.1",
-    "bass": "^1.0.0"
+    "log4js": "1.1.1"
   },
   "readmeFilename": "README.md"
 }
