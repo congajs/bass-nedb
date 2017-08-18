@@ -10,11 +10,10 @@ if (fs.existsSync(dbPath)) {
 }
 
 describe('bass-nedb', AdapterIntegration('bass-nedb', {
-    // connections: {
-    //     default: {
-    //         adapter: 'bass-nedb',
-    //         directory: dbPath
-    //     }
-    // }
-
+    connections: {
+        default: {
+            adapter: 'bass-nedb',
+            directory: dbPath
+        }
+    }
 }));
