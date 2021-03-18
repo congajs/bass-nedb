@@ -1,6 +1,6 @@
 {
   "name": "bass-nedb",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "NeDB Adapter for Bass.js",
   "directories": {
     "test": "test"
